@@ -2,7 +2,8 @@
 
 Copy the .keylayout file into `/Library/Keyboard Layouts/` (for some, it only works in '/User/Library/Keyboard/Layouts/')
 Select the new layout from System Preferences > Language & Text > Input Sources (It will appear in the "Other section")
-<img width="559" height="389" alt="Screenshot 2025-10-07 at 4 30 16 PM" src="https://github.com/user-attachments/assets/7c32bb7f-27eb-4e52-aa8a-5ef1ef84f64c" />
+<img width="548" height="376" alt="Screenshot 2025-10-07 at 4 31 10 PM" src="https://github.com/user-attachments/assets/3e421036-4391-46cd-8fb1-446272d2cf7d" />
+
 
 
 # About
